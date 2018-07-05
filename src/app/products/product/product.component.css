@@ -1,0 +1,29 @@
+.product-container {
+  border: 1px solid black;
+  border-radius: 5px;
+  display: inline-block;
+  padding: 10px;
+}
+
+.product-container-sale {
+  background-color: lightcoral;
+}
+
+.product-container .name h4, .product-container .price h3 {
+  display: inline-block;
+}
+
+.image-container {
+  height: 100px;
+  width: 100px;
+}
+
+.cart {
+  border: 1px solid black;
+  border-radius: 5px;
+  display: inline-block;
+  padding: 10px;
+  position: relative;
+  background-color: white;
+}
+
